@@ -1,0 +1,34 @@
+// TODO : Lesson 5
+1. Membuat project baru
+2. Isikan nama aplikasi, company domain, dan project location kemudian klik next
+3. Checklist Phone and Tablet kemudian klik next
+4. Pilih Empty Activity kemudian klik next
+5. Ubah nama activity, nama layout, dan title aplikasi jika ingin diubah, kemudian klik finish
+6. Menambahkan dependency yang diperlukan
+7. Salin resources yang diperlukan
+8. Membuat style untuk tema aplikasi, font, serta dialog
+9. Membuat Layouting page LoginActivity
+10. Membuat Layouting page MainActivity
+11. Menambahkan controller aplikasi untuk pemanggilan SQLite dan pelacakan kode program menggunakan stetho
+12. Membuat Entity ModelPassword
+13. Membuat Create and Read DaoAccess (CREATE & READ)
+14. Membuat RepositoryPassword
+15. Menambahkan fungsi bantuan untuk memanggil database sqlite
+16. Membuat fungsi login pada LoginActivity
+17. Membuat menu dan fungsi logout pada MainActivity
+18. Membuat fungsi untuk menampilkan dan membuat data baru pada MainActivity
+
+//TODO : Lesson 6
+1. Membuka kembali project yang telah dibuat sebelumnya
+2. Buka MainActivity
+3. Membuat fungsi dan tampilan alert dialog untuk menampilkan data password
+4. Membuat fungsi dan tampilan alert dialog untuk menampilkan pilihan
+5. Membuat fungsi tombol edit untuk mengarahkan ke alert dialog edit
+6. Membuat query pada DaoAccess untuk mengubah atau memperbarui data password
+7. Membuat fungsi dan tampilan alert dialog untuk memperbarui data password
+8. Membuat fungsi tombol UPDATE untuk memperbarui data password
+9. Membuat fungsi tombol CANCEL untuk menutup alert dialog
+10. Membuat query pada DaoAccess untuk menghapus data password
+11. Membuat fungsi tombol delete untuk menghapus data password
+12. Membuat query pada DaoAccess untuk mencari data password berdasarkan nama password
+13. Membuat fungsi search pada MainActivity
